@@ -1,0 +1,5 @@
+aiosmtplib
+pyautogui
+instapy
+selenium==4.9.0
+clarifai
