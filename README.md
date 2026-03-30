@@ -28,8 +28,19 @@ Engineering Student & Cybersecurity Researcher
 Disclaimer: This tool is for educational and authorized security testing purposes only.
 
 
-### 🛠️ Step 3: Save and Upload
-1.  Press **CTRL + O**, then **Enter** to save.
-2.  Press **CTRL + X** to exit.
-3.  **Push the new file to GitHub:**
-4.  pip install -r requirements.txt
+### 🛠️ How to install
+
+# 1. Clone the repository
+git clone https://github.com/zeekaxyz/Zeeka.git
+
+# 2. Move into the directory
+cd Zeeka
+
+# 3. Install Python dependencies
+pip install -r requirements.txt
+
+# 4. Give execution permissions
+chmod +x zeeka.sh
+
+# 5. Launch the framework
+./zeeka.sh
