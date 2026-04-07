@@ -44,3 +44,4 @@ chmod +x zeeka.sh
 
 # 5. Launch the framework
 ./zeeka.sh
+or bash zeeka.sh
